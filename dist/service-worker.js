@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.6a8a95b7d5d1d374ccf5786e553266bc.js"
+  "/precache-manifest.b1cf6fddd1644674c32d7d118fbc6922.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "belwater-vue"});
